@@ -34,8 +34,8 @@ STEP-5: Display the obtained cipher text.
 
 
 ## Program:
-### NAME: Rakesh.K.S
-### Reg.no: 212224040264
+### NAME: Dharshini V
+### Reg.no: 212223040038
 ```
 #include <stdio.h>
 #include <stdlib.h>
